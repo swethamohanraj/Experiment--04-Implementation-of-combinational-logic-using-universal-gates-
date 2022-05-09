@@ -55,13 +55,25 @@ endmodule
 ## OUTPUT:
 ### NAND GATE
 ### Truth Table
+![nandtr](https://user-images.githubusercontent.com/94228215/167343748-160ff6b2-64c5-4e7e-be7f-2efd2e736769.png)
+
 ### RTL Realisation 
+![nandrtl](https://user-images.githubusercontent.com/94228215/167343759-a8002f39-aa05-4336-accf-133fadf7ff79.png)
+
 ### Timing diagram
+![nandtim](https://user-images.githubusercontent.com/94228215/167343771-b580e858-5b86-4a4d-bdf3-5cacc355dcc0.jpeg)
+
 
 ### NOR GATE
 ### Truth Table
+![nortr](https://user-images.githubusercontent.com/94228215/167343785-fb055c75-f486-4aee-8ece-2712dd57b5d2.png)
+
 ### RTL Realisation 
+![norlg](https://user-images.githubusercontent.com/94228215/167343797-3b429f21-f5ad-4200-ace4-b3ba3a49113f.png)
+
 ### Timing diagram
+![nortim](https://user-images.githubusercontent.com/94228215/167343809-29bb1f7b-eca4-475e-a818-5388f7d6f428.png)
+
 
 
 ## Result:
