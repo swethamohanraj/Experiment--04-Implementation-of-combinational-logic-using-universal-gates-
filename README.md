@@ -7,9 +7,9 @@ F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')' using NOR gate
 
 
 ## EQUIPMENTS REQUIRED:
-### 1.Hardware – PCs, Cyclone II , USB flasher
-### 2.Software – Quartus prime
-### 3.Theory
+ 1.Hardware – PCs, Cyclone II , USB flasher
+ 2.Software – Quartus prime
+ 3.Theory
 
 ## PROCEDURE
 ### 1.Use module projname(input,output) to start the Verilog programmming.
